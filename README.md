@@ -9,5 +9,5 @@ Dependencies
  2. Make Sure Run the Bundle install before running application
  3. Test Data stored in Redis Memory
  4. API endpoints
-  i) Customer Booking: Request Type: GET , Url: {server_ip}/api/customer_booking, parameters: {contact_number: "<contact_number>", address: <address>}
-  ii) Complete Ride by Driver: Request Type: GET , Url: {server_ip}/api/complete_ride, parameters: {booking_id: "<booking_id>", drop_address: <drop_address>} 
+  i) Customer Booking: Request Type: GET , Url: {server_ip}/api/customer_booking, parameters: {contact_number: "<contact_number>", address: <address>}<br><br>
+  ii) Complete Ride by Driver: Request Type: GET , Url: {server_ip}/api/complete_ride, parameters: {booking_id: "<booking_id>", drop_address: <drop_address>} <br><br>
